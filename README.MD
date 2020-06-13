@@ -7,8 +7,28 @@ Represent case text as a computable vector in the same space.
 * train single vae model run:<br>
   python emb_single_train.py
   
+* emb_config.py:<br>
+  model structure | dataset | training | evauation | config file
 
-大家悄悄的批判指教👍，不要外传🤫！不要外传🤫！不要外传🤫！🤣
+
+In this paper ,we use the BOW get statistics information and TRANSFORMER get content information.Final ,we use VAE Align two types of information into the same space.
+![](./imgs/content.png)
+<br>
+<br>
+<br>
+Model structure
+![](./imgs/model.png)
+<br>
+<br>
+<br>
+we use vae encode case texts to vectors,and visualize. 
+![](./imgs/VAEATT.png)
+<br>
+other results are in imgs/
+<br>
+<br>
+<br>
+
 
 
 
