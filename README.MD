@@ -1,5 +1,5 @@
 # Case2Vec:Self-Attention VAE for Case Text Embedding Representation
-Represent case text as a computable vector in the same space.
+Represent case text as a computable vector in the same space.(Old title)
 
 * train vae+selfatt model run:<br>
   python emb_train.py  
