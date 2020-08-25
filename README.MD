@@ -1,4 +1,4 @@
-# Case2Vec:Self-Attention VAE for Case Text Embedding Representation
+# Case2Vec:Joint VAE for Case Text Embedding Representation
 Represent case text as a computable vector in the same space.
 
 * train vae+selfatt model run:<br>
